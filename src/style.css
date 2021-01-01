@@ -1,0 +1,36 @@
+.out{
+	background-image: url('background.jpg');
+	min-width: 100%;
+	min-height: 100%;
+	position: fixed;
+	background-size: cover;
+	background-position: center;
+	padding-top: 50px;
+	
+}
+.outmain{
+	background-image: url('back.gif');
+	min-width: 100%;
+	min-height: 100%;
+	position: fixed;
+	background-size: cover;
+	background-position: center;
+
+}
+
+.Registercontent{
+	margin: auto;
+	width: 50%;
+	background-color: #eddfc5;
+	padding-bottom: 50px;
+	padding-top: 10px;
+}
+
+
+.header{
+	fontfamily:'poppins';
+	text-align: center;
+	padding-bottom: 10px;
+}
+.footer{
+}
